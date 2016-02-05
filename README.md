@@ -6,3 +6,5 @@ couple of dotfiles
 - snippy 
 - copyclip
 - pencil (http://pencil.evolus.vn/)
+- SequelPro
+- SoapUI
